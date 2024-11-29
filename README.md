@@ -2,7 +2,6 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 <!--
 **HeadHunter4621/HeadHunter4621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
