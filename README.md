@@ -1,7 +1,7 @@
 # Hi there, I'm Kona :3
 
-.. image:: https://wakatime.com/share/@47b45146-91a8-4207-ae3f-62d89b12b720/27acd792-0f4c-432d-82d9-6f0f19a0442d.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@47b45146-91a8-4207-ae3f-62d89b12b720/27acd792-0f4c-432d-82d9-6f0f19a0442d.png" /></a>
+
 ## Learning:
 - Kotlin (FRC)
 - Python (Discord Bot)
